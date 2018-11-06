@@ -1,0 +1,43 @@
+This project uses the following items from Poly (http://poly.google.com):
+
+Title: Dawid
+Author: 3Donimus
+URL: https://poly.google.com/view/7rW7NFLpdpn
+License: Creative Commons CC-BY
+https://creativecommons.org/licenses/by/3.0/legalcode
+
+Title: Goku on Namek
+Author: Josiah Brooks
+URL: https://poly.google.com/view/7zkbanOhiHI
+License: Creative Commons CC-BY
+https://creativecommons.org/licenses/by/3.0/legalcode
+
+Title: OldPickUp
+Author: pedro gavides
+URL: https://poly.google.com/view/1tpIQQjDyGJ
+License: Creative Commons CC-BY
+https://creativecommons.org/licenses/by/3.0/legalcode
+
+Title: patrick piemonte
+Author: patrick piemonte
+URL: https://poly.google.com/view/27Sq9gQjzO1
+License: Creative Commons CC-BY
+https://creativecommons.org/licenses/by/3.0/legalcode
+
+Title: Phone
+Author: Poly by Google
+URL: https://poly.google.com/view/8F1Of9426Ue
+License: Creative Commons CC-BY
+https://creativecommons.org/licenses/by/3.0/legalcode
+
+Title: TV
+Author: Simon W
+URL: https://poly.google.com/view/03Sc039JWuF
+License: Creative Commons CC-BY
+https://creativecommons.org/licenses/by/3.0/legalcode
+
+Title: Wolkswagen MKII
+Author: Adolfo Velazquez
+URL: https://poly.google.com/view/2o6Xs3NdLpT
+License: Creative Commons CC-BY
+https://creativecommons.org/licenses/by/3.0/legalcode
