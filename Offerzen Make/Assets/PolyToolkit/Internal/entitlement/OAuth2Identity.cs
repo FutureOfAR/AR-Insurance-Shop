@@ -25,8 +25,6 @@ using UnityEngine.Networking;
 
 using Newtonsoft.Json.Linq;
 
-/// Handle accessing OAuth2 based web services.
-
 namespace PolyToolkitInternal.entitlement {
   [ExecuteInEditMode]
   public class OAuth2Identity : MonoBehaviour {
